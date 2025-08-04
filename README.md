@@ -1,8 +1,8 @@
-Titanic Data Analysis – Project Summary
+<h1> Titanic Data Analysis – Project Summary </h1>
 
 This project performs a complete preprocessing and analysis pipeline on the Titanic dataset to prepare it for machine learning tasks. The focus is on data cleaning, transformation, visualization, and outlier handling.
 
-Steps Performed:
+<h3> Steps Performed: </h3>
 
 Data Loading & Exploration
 
@@ -56,3 +56,10 @@ Standardization to improve model performance.
 Boxplot + IQR for identifying and removing outliers.
 
 Visualization using Seaborn and Matplotlib.
+
+<img width="623" height="404" alt="image" src="https://github.com/user-attachments/assets/118a2fe1-9060-4489-9561-d771324d88f3" />
+
+<img width="604" height="386" alt="image" src="https://github.com/user-attachments/assets/fdbd0b8c-162c-47e3-9a81-d40298ad8124" />
+
+
+<img width="998" height="708" alt="image" src="https://github.com/user-attachments/assets/c70f6c08-9847-44f7-88e5-6c3701620bbc" />
